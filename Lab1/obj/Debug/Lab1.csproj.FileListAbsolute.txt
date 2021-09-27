@@ -1,0 +1,17 @@
+E:\Универ\3\ООП\Лабы\Lab1\Lab1\bin\Debug\Lab1.exe.config
+E:\Универ\3\ООП\Лабы\Lab1\Lab1\bin\Debug\Lab1.exe
+E:\Универ\3\ООП\Лабы\Lab1\Lab1\bin\Debug\Lab1.pdb
+E:\Универ\3\ООП\Лабы\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+E:\Универ\3\ООП\Лабы\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+E:\Универ\3\ООП\Лабы\Lab1\Lab1\obj\Debug\Lab1.exe
+E:\Универ\3\ООП\Лабы\Lab1\Lab1\obj\Debug\Lab1.pdb
+D:\БГТУ БЕДА\2 1\ООП\Лабы\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\БГТУ БЕДА\2 1\ООП\Лабы\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\БГТУ БЕДА\2 1\ООП\Лабы\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\БГТУ БЕДА\2 1\ООП\Лабы\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+D:\БГТУ БЕДА\2 1\ООП\Лабы\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\БГТУ БЕДА\2 1\ООП\Лабы\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\БГТУ БЕДА\2 1\ООП\Лабы\Lab1\Lab1\obj\Debug\Lab1.pdb
+D:\БГТУ БЕДА\2 1\ООП\Лабы\Lab1\Lab1\bin\Debug\System.ValueTuple.dll
+D:\БГТУ БЕДА\2 1\ООП\Лабы\Lab1\Lab1\bin\Debug\System.ValueTuple.xml
+D:\БГТУ БЕДА\2 1\ООП\Лабы\Lab1\Lab1\obj\Debug\Lab1.csproj.CopyComplete
